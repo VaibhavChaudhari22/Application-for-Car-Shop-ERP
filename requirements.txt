@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+PyJWT
+requests
+python-dotenv
+
+# testing
+pytest
+pytest-cov
+
+# utilities
+toml
+click
+coverage
